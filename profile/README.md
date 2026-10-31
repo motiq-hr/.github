@@ -17,7 +17,7 @@ ROS / ROS2, computer vision, mechatronics and robotic integration.
 
 Private AI assistants, operator copilots and reasoning grounded in system capabilities.
 
-**Automation**
+**Automation -DevOps**
 
 Automation, system integration, edge and cloud infrastructure, CI/CD and observability.
 
@@ -27,6 +27,8 @@ Start with a concrete problem. Build a small prototype. Measure what works. Deve
 
 ---
 
-[**motiq.hr →**](https://www.motiq.hr) · [**Get in touch →**](mailto:info@motiq.hr) · [**Website source →**](https://github.com/motiq-labs/website)
+[**motiq.hr →**](https://www.motiq.hr) 
+
+[**Get in touch →**](mailto:info@motiq.hr) 
 
 Zagreb, Croatia · Working worldwide
